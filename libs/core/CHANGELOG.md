@@ -26,21 +26,14 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 ### Bug Fixes
 
 * add rxjs as peerDependency ([ecfae1b](https://github.com/co-IT/ngrx-ducks/commit/ecfae1b5d16be3496f4e29512b9c65322b423c08))
-* update link to StackBlitz ([c71fd82](https://github.com/co-IT/ngrx-ducks/commit/c71fd823602877202567f469d6b29e45e4f88c1a))
 
 
 
 # [14.0.0](https://github.com/co-IT/ngrx-ducks/compare/v13.1.3...v14.0.0) (2022-06-11)
 
 
-### Bug Fixes
-
-* run security audit ([64fa009](https://github.com/co-IT/ngrx-ducks/commit/64fa009c5becd326ca05b69043070fc34924244b))
-
-
 ### Features
 
-* connect to nx cloud ([efff830](https://github.com/co-IT/ngrx-ducks/commit/efff8302463de12948dab82f18be19436d58a118))
 * define peer versions ([cf61db8](https://github.com/co-IT/ngrx-ducks/commit/cf61db87da28baa810f838fff137d1586ca388f7))
 * migrate to Angular 14 ([606b5b8](https://github.com/co-IT/ngrx-ducks/commit/606b5b8287ebc7140df4604a2ebf630f50ee1a87))
 * remove schematics library ([383566b](https://github.com/co-IT/ngrx-ducks/commit/383566bd3d4081a1ba491eef6cb727cc4212d5cf))
@@ -56,8 +49,6 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 
 ### Bug Fixes
 
-* add missing name ([2421ecf](https://github.com/co-IT/ngrx-ducks/commit/2421ecfb1f1dfd4989fc965405a33192f210d6bf))
-* correct intendation of env ([2baa72c](https://github.com/co-IT/ngrx-ducks/commit/2baa72cd8fd0fbf18f31c6140a15b3bb3bf57bb6))
 * **store-registration:** flatten existing reducers when combining them ([bfa8a92](https://github.com/co-IT/ngrx-ducks/commit/bfa8a9244d08a715516508a67a7f9a5756dedb6e))
 
 
@@ -69,16 +60,9 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 # [13.1.0](https://github.com/co-IT/ngrx-ducks/compare/v13.0.2...v13.1.0) (2022-02-11)
 
 
-### Bug Fixes
-
-* add missing ngrx dependency ([22ad8f7](https://github.com/co-IT/ngrx-ducks/commit/22ad8f79b85597179f2e6d760c3864b130c9aeb4))
-* get example app to run ([32106db](https://github.com/co-IT/ngrx-ducks/commit/32106db190d1d4ef238a0d88da76e94ed1ba1210))
-
-
 ### Features
 
 * add helper checking for props ([5fe6157](https://github.com/co-IT/ngrx-ducks/commit/5fe61577bf5d5518b132c000f48f3a1bbd33f756))
-* add nested duck example ([e614b18](https://github.com/co-IT/ngrx-ducks/commit/e614b18bb7f5d4ab0489e1ade0074c8939c1601c))
 * **recursive:** ignore duck-blocks ([6770d91](https://github.com/co-IT/ngrx-ducks/commit/6770d91471a2b3a5f84a64f1c7eeaf14fc31adac))
 
 
@@ -137,8 +121,3 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 
 
 # [13.0.0-alpha.0](https://github.com/co-IT/ngrx-ducks/compare/v12.4.3...v13.0.0-alpha.0) (2021-12-13)
-
-
-### Bug Fixes
-
-* add missin eslintrc ([5b632f7](https://github.com/co-IT/ngrx-ducks/commit/5b632f71a280e37bbfe34d3786a2d70c74600ba7))
